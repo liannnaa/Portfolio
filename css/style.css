@@ -188,6 +188,7 @@ nav {display: none;}
 }
 
 .class {
+    display:contents;
     max-width: 500px;
     margin: 0 auto;
 }
